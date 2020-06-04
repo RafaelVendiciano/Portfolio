@@ -14,13 +14,12 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
 **Links:**
-* [Blog]()
 * [LinkedIn](https://www.linkedin.com/in/rafael-barbosa-a5767a186/)
-* [Medium]()
+* [Medium](https://medium.com/@rafaelvendiciano)
 
 
 ## Projetos:
-
+* **Analisando Dados do Airbnb de New York:** https://bit.ly/3cxWdmP
 
 
 ---
