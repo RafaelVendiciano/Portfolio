@@ -11,7 +11,7 @@ Atualmente cursando Graduação na UFPE e estudando Data Science
 **Background in:** Economia, Finanças, Python, Inglês, Excel, Power Point, Word.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/rafael-barbosa-a5767a186/)
+* [LinkedIn](https://www.linkedin.com/in/rafaelvendiciano/)
 * [Medium](https://medium.com/@rafaelvendiciano)
 
 
