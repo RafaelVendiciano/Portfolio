@@ -8,7 +8,7 @@
 
 Atualmente cursando Graduação na UFPE e estudando Data Science
 
-**Background in:** Economia, Finanças, Python, Excel, Power Point, Word.
+**Background in:** Economia, Finanças, Python, Inglês, Excel, Power Point, Word.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/rafael-barbosa-a5767a186/)
