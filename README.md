@@ -16,7 +16,7 @@ Atualmente cursando Graduação na UFPE e estudando Data Science
 
 
 ## Projetos:
-* **Analisando Dados do Airbnb de New York:** https://bit.ly/3cxWdmP
+* **Analisando Dados do Airbnb de Nova Iorque:** https://bit.ly/3cusSK0
 
 
 ---
