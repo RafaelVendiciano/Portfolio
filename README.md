@@ -6,7 +6,7 @@
 
 # Rafael Vendiciano Barbosa
 
-Currently graduating Economics at UFPE and studying Data Science. Always looking for overcome my weaknesses, not afraid of making mistakes or recognize my limitatis.
+Currently graduating in Economics at UFPE and studying Data Science. Always looking to overcome my weaknesses and not afraid of making mistakes or recognize my limitations.
 
 **Background in:** Economia, Finanças, Python, Inglês, Excel, Power Point, Word.
 
