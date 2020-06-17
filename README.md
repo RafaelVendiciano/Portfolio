@@ -18,6 +18,7 @@ Currently graduating in Economics at UFPE and studying Data Science. Always look
 ## Projetos:
 * **Analisando Dados do Airbnb de Nova Iorque:** https://bit.ly/3cusSK0
 * **Analisando Dados da Violência no Rio de Janeiro:** https://bit.ly/2BYnjal
+* **Analisando Dados do COVID-19:** https://bit.ly/2N6puef
 
 ---
 
