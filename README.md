@@ -6,9 +6,9 @@
 
 # Rafael Vendiciano Barbosa
 
-Currently graduating in Economics at UFPE and studying Data Science. Always looking to overcome my weaknesses and not afraid of making mistakes or recognize my limitations.
+Atualmente Graduando em Economia pela UFPE e Estudando Data Science. Sempre buscando superar minhas fraquezas e sem receio de errar ou reconhecer minhas limitações.
 
-**Background in:** Economia, Finanças, Python, Inglês, Excel, Power Point, Word.
+**Background em:** Economia, Finanças, Python, Inglês, Excel, Power Point, Word.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/rafaelvendiciano/)
