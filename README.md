@@ -16,6 +16,7 @@ Atualmente Graduando em Economia pela UFPE e Estudando Data Science. Sempre busc
 
 
 ## Projetos:
+* **Avaliação de Risco de Crédito Com Machine Learning:** https://bit.ly/3aeiSVL
 * **Churn Prediction Com Machine Learning Para uma Empresa de Telecomunicações:** https://bit.ly/2Ee2U23
 * **Detecção de Fraude em Cartões de Crédito Com Machine Learning:** https://bit.ly/3eULbdq
 * **Analisando Dados do COVID-19:** https://bit.ly/2N6puef
